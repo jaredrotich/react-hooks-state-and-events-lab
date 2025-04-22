@@ -12,3 +12,5 @@ function Toggle() {
         </button>
       );
 }
+
+export default Toggle;
